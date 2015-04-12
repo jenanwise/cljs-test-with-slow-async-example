@@ -1,0 +1,1 @@
+java -cp lib/cljs-standalone-3196.jar:lib/core.async-0.1.346.0-17112a-alpha.jar:src clojure.main build.clj
